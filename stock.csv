@@ -1,0 +1,51 @@
+produit,nom,categorie,quantite,seuil_minimum,seuil_maximum,prix_unitaire,valeur_stock,taux_rotation,jours_stock,fournisseur,emplacement,date_derniere_maj,unite_mesure,delai_livraison,statut
+PROD-001,Smartphone Galaxy S23,Électronique,150,20,500,899.99,134998.5,4.2,87,Fournisseur Européen,Zone A - Étagère 1,2024-02-10,Unité,7,Actif
+PROD-002,Eau minérale 1.5L,Alimentaire,300,50,1000,0.89,267.0,10.5,35,Fournisseur A,Zone B - Réfrigéré,2024-01-25,Litre,3,Actif
+PROD-003,T-shirt coton Blanc M,Textile,75,15,300,12.99,974.25,2.8,130,Fournisseur B,Zone A - Étagère 2,2024-02-15,Unité,14,Actif
+PROD-004,Pièce auto A-004,Automobile,45,10,200,89.5,4027.5,1.2,304,Fournisseur C,Zone C - Palettes,2024-01-30,Unité,21,Actif
+PROD-005,Médicament A-005,Pharmaceutique,800,100,900,15.75,12600.0,8.3,44,Fournisseur D,Zone D - Sécurisé,2024-02-18,Paquet,5,Actif
+PROD-006,Produit Bricolage 006,Bricolage,25,5,150,34.99,874.75,0.8,456,Fournisseur E,Zone E - Rapide,2024-02-05,Unité,10,Actif
+PROD-007,Écran LED 24",Électronique,5,15,100,199.99,999.95,3.5,104,Fournisseur Asiatique,Zone A - Étagère 1,2024-03-01,Unité,14,Actif
+PROD-008,Pâtes Spaghetti 500g,Alimentaire,1200,200,1500,1.29,1548.0,9.8,37,Fournisseur A,Zone C - Palettes,2024-02-20,Kg,2,Actif
+PROD-009,Jeans slim Bleu,Textile,60,10,250,49.99,2999.4,1.5,243,Fournisseur B,Zone A - Étagère 2,2024-02-12,Unité,21,Actif
+PROD-010,Pièce auto B-010,Automobile,30,8,150,120.5,3615.0,0.9,406,Fournisseur C,Zone C - Palettes,2024-01-28,Unité,14,Actif
+PROD-011,Médicament B-011,Pharmaceutique,550,80,600,8.99,4944.5,6.7,54,Fournisseur D,Zone D - Sécurisé,2024-02-22,Paquet,7,Actif
+PROD-012,Produit Cosmétique 012,Cosmétique,180,25,400,24.5,4410.0,3.2,114,Fournisseur F,Zone A - Étagère 1,2024-02-08,Unité,10,Actif
+PROD-013,Casque Bluetooth,Électronique,85,20,300,79.99,6799.15,5.1,72,Fournisseur Européen,Zone A - Étagère 1,2024-02-14,Unité,7,Actif
+PROD-014,Riz Basmati 1kg,Alimentaire,950,150,1200,3.49,3315.5,11.2,33,Fournisseur A,Zone C - Palettes,2024-02-25,Kg,5,Actif
+PROD-015,Pull laine polaire,Textile,40,8,200,39.99,1599.6,1.8,203,Fournisseur B,Zone A - Étagère 2,2024-02-16,Unité,21,Actif
+PROD-016,Pièce auto C-016,Automobile,22,5,120,65.75,1446.5,1.1,332,Fournisseur C,Zone C - Palettes,2024-01-20,Unité,14,Actif
+PROD-017,Médicament C-017,Pharmaceutique,700,90,750,12.25,8575.0,7.5,49,Fournisseur D,Zone D - Sécurisé,2024-02-28,Paquet,3,Actif
+PROD-018,Produit Jouets 018,Jouets,120,20,500,19.99,2398.8,2.5,146,Fournisseur E,Zone E - Rapide,2024-02-03,Carton,14,Actif
+PROD-019,Batterie externe 20000mAh,Électronique,200,30,600,34.99,6998.0,4.8,76,Fournisseur Asiatique,Zone A - Étagère 1,2024-02-19,Unité,21,Actif
+PROD-020,Café moulu Arabica,Alimentaire,650,100,800,6.99,4543.5,8.9,41,Fournisseur A,Zone B - Réfrigéré,2024-02-23,Kg,7,Actif
+PROD-021,Chaussettes sport,Textile,250,40,500,4.99,1247.5,3.5,104,Fournisseur B,Zone A - Étagère 2,2024-02-11,Paquet,10,Actif
+PROD-022,Pièce auto D-022,Automobile,18,4,100,45.5,819.0,0.7,521,Fournisseur C,Zone C - Palettes,2024-01-15,Unité,21,Actif
+PROD-023,Médicament D-023,Pharmaceutique,480,70,550,18.75,9000.0,5.9,62,Fournisseur D,Zone D - Sécurisé,2024-02-26,Paquet,5,Actif
+PROD-024,Produit Meubles 024,Meubles,15,3,80,149.99,2249.85,0.4,913,Fournisseur F,Zone C - Palettes,2024-01-30,Unité,21,Actif
+PROD-025,Chargeur USB-C rapide,Électronique,320,50,800,29.99,9596.8,6.3,58,Fournisseur Européen,Zone A - Étagère 1,2024-02-17,Unité,7,Actif
+PROD-026,Chocolat noir 70%,Alimentaire,420,60,600,2.99,1255.8,7.8,47,Fournisseur A,Zone B - Réfrigéré,2024-02-29,Unité,3,Actif
+PROD-027,Veste imperméable,Textile,35,7,180,89.99,3149.65,1.2,304,Fournisseur B,Zone A - Étagère 2,2024-02-09,Unité,14,Actif
+PROD-028,Pièce auto E-028,Automobile,12,3,80,99.99,1199.88,0.5,730,Fournisseur C,Zone C - Palettes,2024-01-10,Unité,21,Actif
+PROD-029,Médicament E-029,Pharmaceutique,900,120,1000,6.49,5841.0,9.1,40,Fournisseur D,Zone D - Sécurisé,2024-03-02,Paquet,2,Actif
+PROD-030,Produit Sport 030,Sport,90,15,400,54.99,4949.1,2.2,166,Fournisseur E,Zone E - Rapide,2024-02-07,Unité,14,Actif
+PROD-031,Câble HDMI,Électronique,500,75,1200,8.99,4495.0,7.2,51,Fournisseur Asiatique,Zone A - Étagère 1,2024-02-13,Unité,21,Actif
+PROD-032,Biscuits sablés,Alimentaire,880,120,1100,1.79,1575.2,10.1,36,Fournisseur A,Zone C - Palettes,2024-02-27,Paquet,5,Actif
+PROD-033,Chemise homme,Textile,55,10,220,34.99,1924.45,1.9,192,Fournisseur B,Zone A - Étagère 2,2024-02-04,Unité,21,Actif
+PROD-034,Pièce auto F-034,Automobile,8,2,60,150.0,1200.0,0.3,1217,Fournisseur C,Zone C - Palettes,2024-01-05,Unité,14,Actif
+PROD-035,Médicament F-035,Pharmaceutique,620,90,700,22.5,13950.0,6.1,60,Fournisseur D,Zone D - Sécurisé,2024-02-24,Paquet,7,Actif
+PROD-036,Produit Électronique 036,Électronique,110,20,400,129.99,14298.9,3.8,96,Fournisseur Européen,Zone A - Étagère 1,2024-02-06,Unité,7,Actif
+PROD-037,Conserve de thon,Alimentaire,720,100,900,1.99,1432.8,8.5,43,Fournisseur A,Zone C - Palettes,2024-02-21,Unité,5,Actif
+PROD-038,Robe été florale,Textile,28,6,150,59.99,1679.72,1.4,261,Fournisseur B,Zone A - Étagère 2,2024-02-02,Unité,21,Actif
+PROD-039,Pièce auto G-039,Automobile,5,2,50,89.99,449.95,0.6,608,Fournisseur C,Zone C - Palettes,2024-01-01,Unité,14,Actif
+PROD-040,Médicament G-040,Pharmaceutique,750,110,800,9.99,7492.5,8.7,42,Fournisseur D,Zone D - Sécurisé,2024-03-03,Paquet,3,Actif
+PROD-041,Disque Dur SSD 1TB,Électronique,65,15,250,89.99,5849.35,4.5,81,Fournisseur Asiatique,Zone A - Étagère 1,2024-02-16,Unité,14,Actif
+PROD-042,Huile d'olive extra vierge,Alimentaire,380,50,500,7.49,2846.2,6.4,57,Fournisseur A,Zone B - Réfrigéré,2024-02-26,Litre,7,Actif
+PROD-043,Pyjama coton,Textile,95,15,300,29.99,2849.05,2.4,152,Fournisseur B,Zone A - Étagère 2,2024-02-14,Unité,10,Actif
+PROD-044,Pièce auto H-044,Automobile,15,4,100,75.5,1132.5,0.8,456,Fournisseur C,Zone C - Palettes,2024-01-08,Unité,14,Actif
+PROD-045,Médicament H-045,Pharmaceutique,580,85,650,14.75,8555.0,5.5,66,Fournisseur D,Zone D - Sécurisé,2024-02-20,Paquet,5,Actif
+PROD-046,Produit Alimentaire 046,Alimentaire,240,30,400,4.25,1020.0,5.2,70,Fournisseur F,Zone C - Palettes,2024-02-12,Kg,3,Actif
+PROD-047,Clavier mécanique,Électronique,120,25,350,69.99,8398.8,3.2,114,Fournisseur Européen,Zone A - Étagère 1,2024-02-08,Unité,7,Actif
+PROD-048,Farine T55,Alimentaire,1500,200,1800,0.89,1335.0,12.5,29,Fournisseur A,Zone C - Palettes,2024-03-01,Kg,2,Actif
+PROD-049,Serviette de bain,Textile,180,30,400,14.99,2698.2,3.8,96,Fournisseur B,Zone A - Étagère 2,2024-02-18,Unité,14,Actif
+PROD-050,Drap housse 200x200,Textile,45,8,200,39.99,1799.55,1.1,332,Fournisseur B,Zone A - Étagère 2,2024-02-01,Unité,21,Actif
